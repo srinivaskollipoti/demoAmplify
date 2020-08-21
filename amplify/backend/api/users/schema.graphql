@@ -1,0 +1,6 @@
+type Users @model {
+  id: ID!
+  name: String!
+  age: String
+  email: String
+}
